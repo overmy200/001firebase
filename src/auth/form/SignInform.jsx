@@ -53,7 +53,7 @@ const Login = () => {
               </div>
             </form>
             <div className="p-4 box mt-3 text-center">
-              Don't have an account <Link to="/login">Register</Link>
+              Don't have an account <Link to="/register">Register</Link>
             </div>
           </div>
         </>
